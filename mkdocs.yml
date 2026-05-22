@@ -1,6 +1,6 @@
-site_name: The club Moms FAQ
-site_description: Base de preguntas frecuentes para mamás
-site_url: https://ornellaramosv.github.io/faq-mamas/
+site_name: The Club Moms FAQ
+site_description: Preguntas frecuentes para mamás
+site_url: http://127.0.0.1:8000/
 
 theme:
   name: material
@@ -30,17 +30,30 @@ theme:
 nav:
   - Inicio: index.md
   - Consulta rápida:
-      - Primeros auxilios de mamá: primeros-auxilios.md
       - Cuándo consultar: salud-alertas.md
   - Temas frecuentes:
-      - Lactancia: lactancia.md
-      - Fórmula y teteros: formula.md
-      - Sueño del bebé: sueno.md
-      - Pañales y popó: panales.md
-      - Cólicos y reflujo: colicos-reflujo.md
-      - Vacunas y controles: vacunas.md
+      - APLV: aplv.md
+      - Alimentación complementaria: alimentacion-complementaria.md
+      - Compras: compras.md
       - Desarrollo: desarrollo.md
-      - Productos útiles: productos.md
+      - Embarazo: embarazo.md
+      - Eventos: eventos.md
+      - Fechas importantes: fechas-importantes.md
+      - Fórmula: formula.md
+      - Grupo y comunidad: grupo-y-comunidad.md
+      - Hogar y ayuda: hogar-y-ayuda.md
+      - Lactancia: lactancia.md
+      - Mascotas: mascotas.md
+      - Maternidad: maternidad.md
+      - Pareja y trabajo: pareja-y-trabajo.md
+      - Parto y posparto: parto-y-posparto.md
+      - Productos: productos.md
+      - Salud de mamá: salud-de-mama.md
+      - Salud del bebé: salud-del-bebe.md
+      - Seguridad y privacidad: seguridad-y-privacidad.md
+      - Sueño: sueno.md
+      - Vacunas: vacunas.md
+      - Viajes y trámites: viajes-y-tramites.md
 
 markdown_extensions:
   - admonition
