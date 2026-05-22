@@ -1,0 +1,125 @@
+:root {
+  --club-coral: #F26D6D;
+  --club-pink: #F8B6C4;
+  --club-mauve: #9B5D7A;
+  --club-cream: #FFF7F2;
+  --club-soft: #FFF1F4;
+  --club-text: #4A3A3A;
+}
+
+.md-header {
+  background: linear-gradient(90deg, #D83F7A, #F26D6D);
+}
+
+.md-tabs {
+  display: none;
+}
+
+.md-main__inner {
+  margin-top: 0;
+}
+
+.hero-club {
+  background: linear-gradient(135deg, #FFF1F4 0%, #FFF7F2 55%, #FFFFFF 100%);
+  border-radius: 24px;
+  padding: 2.2rem;
+  margin-bottom: 2rem;
+  border: 1px solid #FAD4DD;
+}
+
+.hero-club h1 {
+  color: var(--club-mauve);
+  margin-bottom: 0.5rem;
+  font-size: 2.4rem;
+}
+
+.hero-club p {
+  color: var(--club-text);
+  font-size: 1.05rem;
+  max-width: 760px;
+}
+
+.hero-badge {
+  display: inline-block;
+  background: #FFFFFF;
+  color: var(--club-mauve);
+  border: 1px solid #F8B6C4;
+  border-radius: 999px;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.quick-search-box {
+  background: #FFFFFF;
+  border-radius: 18px;
+  padding: 1rem 1.2rem;
+  border: 1px solid #FAD4DD;
+  margin-top: 1.3rem;
+}
+
+.quick-search-box strong {
+  color: var(--club-mauve);
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.category-card {
+  background: #FFFFFF;
+  border: 1px solid #FAD4DD;
+  border-radius: 18px;
+  padding: 1.1rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.category-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(155, 93, 122, 0.14);
+}
+
+.category-card h3 {
+  margin-top: 0;
+  color: var(--club-mauve);
+  font-size: 1rem;
+}
+
+.category-card p {
+  font-size: 0.85rem;
+  color: #5E4A4A;
+  margin-bottom: 0.8rem;
+}
+
+.category-card a {
+  font-weight: 700;
+  color: var(--club-coral);
+}
+
+.alert-box {
+  background: #FFF7E8;
+  border-left: 5px solid #F2A65A;
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+  margin: 1.5rem 0;
+}
+
+.md-sidebar--secondary {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .hero-club {
+    padding: 1.4rem;
+  }
+
+  .hero-club h1 {
+    font-size: 1.8rem;
+  }
+}

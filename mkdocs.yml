@@ -1,0 +1,58 @@
+site_name: The club Moms FAQ
+site_description: Base de preguntas frecuentes para mamás
+site_url: https://ornellaramosv.github.io/faq-mamas/
+
+theme:
+  name: material
+  language: es
+  favicon: assets/favicon.png
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: pink
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: pink
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+
+nav:
+  - Inicio: index.md
+  - Consulta rápida:
+      - Primeros auxilios de mamá: primeros-auxilios.md
+      - Cuándo consultar: salud-alertas.md
+  - Temas frecuentes:
+      - Lactancia: lactancia.md
+      - Fórmula y teteros: formula.md
+      - Sueño del bebé: sueno.md
+      - Pañales y popó: panales.md
+      - Cólicos y reflujo: colicos-reflujo.md
+      - Vacunas y controles: vacunas.md
+      - Desarrollo: desarrollo.md
+      - Productos útiles: productos.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: "Contenido informativo. No reemplaza valoración médica."
