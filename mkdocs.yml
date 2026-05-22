@@ -1,6 +1,6 @@
-site_name: The Club Moms FAQ
+site_name: The Mom's Club FAQ
 site_description: Preguntas frecuentes para mamás
-site_url: http://127.0.0.1:8000/
+site_url: https://ornellaramosv.github.io/faq-mamas/
 
 theme:
   name: material
