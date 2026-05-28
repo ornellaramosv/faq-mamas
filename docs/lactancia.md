@@ -3,140 +3,116 @@
 !!! info "Nota importante"
     Esta información tiene fines informativos y no reemplaza la valoración médica. Ante síntomas de alarma o dudas sobre el estado del bebé, se debe consultar con el pediatra.
 
-## ¿Qué hago si el bebé pide teta a cada rato?
+## ¿Qué hago si mi bebé rechaza el pecho?
 
-En recién nacidos y brotes es común. Pegar al bebé ayuda a estimular producción. Revisar pañales, peso y señales de hambre; si hay duda de ganancia de peso, consultar.
-
----
-
-## ¿Cómo sé si mi bebé está tomando suficiente leche materna?
-
-Mirar pañales mojados, deposiciones, ganancia de peso, bebé activo y controles pediátricos. Que el pecho no se sienta lleno no significa automáticamente baja producción.
+Ofrecer cuando esté tranquilo o medio dormido, revisar agarre, evitar forzar y buscar apoyo de asesora de lactancia si el rechazo continúa.
 
 ---
 
-## ¿Los pechos blandos significan que no tengo leche?
+## ¿Es normal que el bebé quiera estar pegado al pecho todo el día?
 
-No necesariamente. Con el tiempo la producción se regula y los senos pueden sentirse blandos aunque haya leche. Lo importante es peso, pañales y comportamiento del bebé.
-
----
-
-## ¿Cuándo conviene extraerse leche?
-
-Depende del objetivo. Para banco, muchas aprovechan la madrugada o mañana porque suele haber más prolactina. Para aliviar congestión, extraer solo hasta sentir alivio.
+Puede pasar por brotes de crecimiento, necesidad de consuelo o aumento de demanda. Si moja pañales, sube de peso y está activo, suele ser una etapa; si hay dolor o dudas, revisar agarre y control pediátrico.
 
 ---
 
-## ¿Extraer con más potencia saca más leche?
+## ¿Cómo aumento la producción de leche?
 
-No siempre. Demasiada potencia puede doler y bloquear la bajada. Mejor una succión cómoda, modo estimulación al inicio y copa/talla correcta.
-
----
-
-## ¿Cómo guardar leche extraída en el trabajo?
-
-Usar frascos o bolsas limpias, lonchera térmica, baterías de hielo y refrigeración si hay. No mezclar leche tibia con leche ya fría hasta igualar temperaturas.
+Lo que más estimula es la extracción frecuente o el bebé al pecho. Ayudan hidratación, descanso posible, buen agarre, masajes suaves y extracción en horarios de mayor producción.
 
 ---
 
-## ¿Se puede mezclar leche extraída de distintas sesiones?
+## ¿Las galletas de lactancia aumentan la producción?
 
-Sí, pero lo ideal es que estén a la misma temperatura antes de mezclarlas. No agregar leche recién extraída tibia sobre leche ya fría o congelada.
-
----
-
-## ¿Qué hago si tengo dolor, bolita o seno duro?
-
-Pegar al bebé, masajes suaves, posiciones distintas, calor antes si ayuda y frío después si hay inflamación. Si hay fiebre, rojo intenso o malestar general, consultar por posible mastitis.
+Algunas mamás sienten que les ayudan, pero no reemplazan la estimulación. Se pueden usar como apoyo, no como solución única.
 
 ---
 
-## ¿Puedo lactar si estoy enferma del estómago o con gripa?
+## ¿Cuál es el mejor horario para extraer leche?
 
-En la mayoría de casos sí. Si es viral, la leche puede pasar anticuerpos. Mantener higiene, tapabocas si aplica y consultar si necesita medicamentos.
-
----
-
-## ¿Puedo tomar medicamentos lactando?
-
-Debe revisarse caso por caso. Una fuente útil es e-lactancia, pero también conviene confirmar con médico, especialmente si el bebé es recién nacido o prematuro.
+Muchas mamás notan mejor producción entre la madrugada y la mañana, especialmente entre 3:00 a.m. y 6:00 a.m., pero depende de cada cuerpo y rutina.
 
 ---
 
-## ¿Qué hago si el bebé rechaza una teta?
+## ¿Más potencia en el extractor significa más leche?
 
-Probar otra posición, ofrecer cuando esté tranquilo o medio dormido, revisar flujo, dolor, congestión o preferencia. Si persiste, consultar asesora de lactancia.
-
----
-
-## ¿Qué hago si el bebé se ahoga tomando pecho?
-
-Puede ser bajada fuerte. Probar posición reclinada, hacer pausas, sacar un poco antes de pegarlo y observar. Si se pone morado, tose mucho o pasa seguido, consultar.
+No necesariamente. La succión debe ser cómoda; demasiada potencia puede lastimar y dificultar la bajada. Conviene iniciar con estimulación y luego extracción.
 
 ---
 
-## ¿Qué son las crisis de lactancia?
+## ¿Qué hago si tengo el seno duro o con una bolita?
 
-Etapas en las que el bebé cambia su forma de tomar, se desespera, se distrae o pide más. Pueden coincidir con 3 meses, brotes o desarrollo. Suelen pasar con paciencia y oferta sin forzar.
-
----
-
-## ¿Las galletas de lactancia aumentan producción?
-
-A algunas mamás les ayudan, a otras no. Lo que más estimula producción es extracción efectiva o bebé al pecho. Las galletas pueden apoyar, pero no reemplazan frecuencia y buen agarre.
+Poner al bebé al pecho, masajear suavemente, usar frío si hay inflamación y vigilar fiebre, enrojecimiento o dolor fuerte. Si aparecen esos signos, consultar.
 
 ---
 
-## ¿Qué hago si tengo pezones lastimados?
+## ¿Puedo lactar si tengo gripa o virus?
 
-Revisar agarre, usar lanolina o productos indicados, airear, cambiar posiciones y buscar asesora si hay dolor persistente. La pezonera puede ayudar temporalmente si está bien indicada.
-
----
-
-## ¿La pezonera es mala?
-
-No necesariamente. Puede ayudar en casos puntuales, pero idealmente se usa con acompañamiento y se intenta retirar cuando el agarre mejore para no depender de ella.
+En muchos casos sí, e incluso la leche puede aportar anticuerpos. Usar tapabocas, higiene de manos y consultar si se toman medicamentos o hay síntomas fuertes.
 
 ---
 
-## ¿Qué es D-MER?
+## ¿Puedo lactar si tengo malestar estomacal?
 
-Es una sensación emocional negativa breve que aparece con la bajada de leche en algunas mamás. No es rechazo al bebé. Si angustia mucho, buscar apoyo profesional.
+Usualmente sí, manteniendo hidratación. Si se requiere medicamento, revisar compatibilidad y consultar médico.
+
+---
+
+## ¿Qué hago si mi pezón está agrietado o lastimado?
+
+Revisar agarre, alternar posiciones, usar leche materna o producto indicado, dejar ventilar y, si el dolor es fuerte, pedir apoyo de asesora. Algunas mamás descansan uno o dos días dando leche extraída.
+
+---
+
+## ¿Es normal sentir culpa por querer destetar?
+
+Sí, muchas mamás sienten culpa. Destetar no significa fallar; también importa la salud física y emocional de la mamá.
+
+---
+
+## ¿Cómo empezar destete nocturno?
+
+Hacerlo de forma gradual si se puede, apoyarse en otra persona, ofrecer consuelo alternativo, mantener rutina de sueño y entender que puede haber llanto y adaptación.
+
+---
+
+## ¿Qué hago si me quedé sin banco de leche?
+
+Priorizar lo disponible, extraer según rutina posible y considerar lactancia mixta si el pediatra lo recomienda. Lo importante es que el bebé esté alimentado y la mamá esté bien.
 
 ---
 
 ## ¿La lactancia mixta está bien?
 
-Sí. Puede ser una herramienta válida para que el bebé suba de peso y la mamá esté más tranquila. No hace menos mamá a nadie.
+Sí. Lactancia materna, fórmula o mixta pueden ser válidas si el bebé está alimentado, crece y la mamá está bien.
 
 ---
 
-## ¿Cómo hacer tetero amable o método Kassing?
+## ¿La fórmula puede hacer que el bebé rechace el pecho?
 
-Bebé semi sentado, tetina de flujo lento, tetero más horizontal, pausas y ritmo tranquilo. Ayuda a que no prefiera el flujo rápido del biberón.
-
----
-
-## ¿El bebé puede tomar tetero y pecho sin confundirse?
-
-Muchos bebés sí. Ayuda usar flujo lento, método Kassing, no forzar y seguir ofreciendo pecho si la mamá quiere mantener lactancia.
+Puede pasar si el flujo del tetero es más fácil, pero no siempre. Ayuda usar tetero amable, flujo lento y seguir ofreciendo pecho sin presión.
 
 ---
 
-## ¿Qué hacer si el bebé muerde durante lactancia?
+## ¿Qué es tetero amable o método Kassing?
 
-Retirar el pecho con calma, decir firme que duele y no reírse para que no lo tome como juego. Revisar si hay dientes o frustración.
-
----
-
-## ¿Se puede relactar o aumentar producción después de usar fórmula?
-
-A veces sí, con más estímulo al pecho/extractor, paciencia y asesoría. Puede ser gradual y no siempre implica quitar fórmula de golpe.
+Es dar tetero de forma pausada: bebé semi sentado, tetero más horizontal, flujo lento y pausas. Busca evitar que tome demasiado rápido.
 
 ---
 
-## ¿Qué hacer si el bebé queda con hambre después del pecho?
+## ¿Cuántas onzas de leche materna toma un bebé pequeño en tetero?
 
-Revisar agarre, frecuencia, pañales y peso. Puede ser brote o adaptación. Si hay baja de peso, el pediatra puede indicar refuerzo temporal.
+No hay una cantidad fija. Conviene ofrecer poco a poco, hacer pausas y observar señales de hambre y saciedad.
+
+---
+
+## ¿Qué hago si mi bebé se ahoga o tose tomando pecho?
+
+Puede ser bajada fuerte o flujo rápido. Probar posición reclinada, pausas y observar. Si se pone morado, se ahoga mucho o hay dificultad respiratoria, consultar.
+
+---
+
+## ¿Puedo tomar medicamentos durante lactancia?
+
+Depende del medicamento. Revisar fuentes confiables como e-lactancia y confirmar con médico, especialmente si el bebé es pequeño o prematuro.
 
 ---

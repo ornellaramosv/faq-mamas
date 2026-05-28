@@ -3,38 +3,26 @@
 !!! info "Nota importante"
     Esta información tiene fines informativos y no reemplaza la valoración médica. Ante síntomas de alarma o dudas sobre el estado del bebé, se debe consultar con el pediatra.
 
-## ¿Qué vacunas son de los 2 meses?
+## ¿Qué vacunas de meningococo mencionan las mamás?
 
-Suelen incluir hexavalente, neumococo y rotavirus, pero depende del esquema y país. Confirmar con pediatra o centro de vacunación.
-
----
-
-## ¿Qué tener listo para vacunas de los 2 meses?
-
-Termómetro, acetaminofén solo si lo indica el pediatra, mucha teta/contacto, ropa cómoda y paciencia. Observar fiebre o reacción.
+Se mencionan Bexsero para meningococo B y Menveo para ACYW. Son vacunas diferentes y complementarias; confirmar esquema con pediatra.
 
 ---
 
-## ¿La vacuna da sueño?
+## ¿Las vacunas de meningococo están incluidas en el esquema gratuito?
 
-Puede pasar que el bebé esté más dormido, irritable o pegado. Si está bien, come y no hay alarma, observar. Consultar si fiebre alta o decaimiento.
-
----
-
-## ¿Qué es la vacuna de meningococo?
-
-Protege contra meningitis/enfermedad meningocócica. Hay vacunas para ACWY y B; se complementan. Esquema y edad deben definirse con pediatra/infectólogo.
+En el grupo se comenta que muchas veces son particulares y pueden ser costosas. Confirmar disponibilidad y precio con centro de vacunación.
 
 ---
 
-## ¿Las vacunas causan autismo?
+## ¿Qué hacer después de vacunas si el bebé tiene fiebre?
 
-No. Esa relación ha sido desmentida. Las vacunas previenen enfermedades graves. Ante dudas, hablar con pediatra basado en evidencia.
+Seguir indicación del pediatra, controlar temperatura y observar. Consultar si la fiebre es alta, persistente o el bebé está muy decaído.
 
 ---
 
-## ¿Una mamá lactando puede vacunarse?
+## ¿Vale la pena spa o hidroterapia después de vacunas?
 
-Muchas vacunas son compatibles con lactancia, pero debe confirmarse según la vacuna específica y condición de la mamá.
+Algunas familias lo hacen por gusto, pero no es indispensable. Depende del bebé, su estado y recomendación profesional.
 
 ---

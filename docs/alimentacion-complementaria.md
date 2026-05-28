@@ -5,108 +5,78 @@
 
 ## ¿Cuándo iniciar alimentación complementaria?
 
-Generalmente alrededor de 6 meses, cuando sostiene cabeza, se sienta con apoyo y muestra interés. Algunos casos médicos pueden variar con indicación pediátrica.
+Generalmente alrededor de los 6 meses si el bebé muestra señales de preparación, aunque algunos pediatras indican antes en casos específicos. Confirmar con pediatra.
 
 ---
 
-## ¿Se puede iniciar antes de 6 meses?
+## ¿Qué señales indican que mi bebé está listo para comer?
 
-Solo si el pediatra lo indica por una razón específica. Aun así se revisan señales de preparación como control de cabeza y postura.
-
----
-
-## ¿Con qué alimento empezar?
-
-No hay un único alimento obligatorio. Se puede iniciar con vegetales, frutas, proteína o cereales seguros. Lo importante es textura adecuada, supervisión y variedad progresiva.
+Buen control de cabeza, interés por la comida, sentarse con apoyo, pérdida del reflejo de extrusión y autorización pediátrica.
 
 ---
 
-## ¿Debo dar leche antes o después de la comida?
+## ¿Qué alimentos se pueden ofrecer al inicio?
 
-Antes del año la leche sigue siendo principal. Muchas mamás ofrecen leche antes para que el bebé no llegue desesperado y explore mejor la comida.
-
----
-
-## ¿Cuántas comidas al día al inicio?
-
-Se suele empezar con una comida al día y aumentar poco a poco según tolerancia, edad y apetito. No arrancar con tres platos completos de una vez.
+Se mencionan frutas, verduras, aguacate, papa, avena, huevo, pollo o pescado según orientación. Introducir de a poco y observar reacciones.
 
 ---
 
-## ¿Qué hago si mi bebé rechaza alimentos?
+## ¿Cómo ofrecer agua al iniciar alimentación complementaria?
 
-Seguir ofreciendo sin presionar. A veces necesitan muchas exposiciones. Variar presentación, textura y momento del día.
-
----
-
-## ¿Es normal el desorden en alimentación complementaria?
-
-Sí. Embarrarse, tocar, oler y jugar hace parte del aprendizaje. Usar babero/delantal y asumir que toca limpiar.
+Ofrecer pequeñas cantidades en vaso abierto, vaso con pitillo o vaso de aprendizaje. Al inicio es normal que se riegue más de lo que toma.
 
 ---
 
-## ¿BLW o papillas?
+## ¿Vaso con pitillo o vaso 360?
 
-Ambos pueden funcionar. Lo importante es hacerlo seguro: textura adecuada, supervisión, postura correcta y no obligar. Muchas familias hacen método mixto.
-
----
-
-## ¿Cómo conservar papillas con pollo?
-
-Mejor no dejarlas más de 24 horas en nevera. Si no se usará pronto, congelar en porciones. Probar olor/sabor antes de ofrecer.
+Ambos pueden usarse, pero varias mamás prefieren pitillo o vaso abierto porque favorecen habilidades orales. Depende de la comodidad y edad del bebé.
 
 ---
 
-## ¿Y si la papilla no tiene pollo?
+## ¿Qué utensilios necesito para iniciar alimentación complementaria?
 
-Puede durar un poco más según ingredientes y refrigeración, pero por seguridad con bebés conviene usarla pronto o congelarla. Evitar alargar varios días.
-
----
-
-## ¿Cómo ofrecer mantequilla de frutos secos?
-
-En poca cantidad y diluida/mezclada con yogurt, avena, pancake, pan o fruta. No ofrecer cucharadas espesas por riesgo de atragantamiento.
+Silla segura, baberos, platos o recipientes, cucharas/pre-cucharas, vaso, buen jabón, alimentos frescos y paciencia.
 
 ---
 
-## ¿Se puede dar huevo al inicio?
+## ¿Qué silla de comer conviene comprar?
 
-Sí puede ofrecerse si el bebé está listo, bien cocido y en textura segura. Observar tolerancia y seguir recomendación pediátrica.
-
----
-
-## ¿Qué hacer si el bebé se estriñe al iniciar comida?
-
-Ofrecer agua según edad, masajes, bicicleta y alimentos como pitaya, papaya, granadilla o avena. Consultar si hay dolor fuerte, sangre o muchos días sin evacuar.
+Buscar seguridad, buen soporte, reposapiés, fácil limpieza y estabilidad. No necesariamente debe ser la más cara.
 
 ---
 
-## ¿La pitaya ayuda para el estreñimiento?
+## ¿Qué hacer si mi bebé rechaza la comida?
 
-A muchas mamás les funciona, pero puede ser muy efectiva. Mejor dar en la mañana, con agua y observar respuesta.
-
----
-
-## ¿La popó cambia al iniciar sólidos?
-
-Sí. Puede cambiar color, olor, textura y frecuencia. Preocupa si hay sangre, diarrea persistente, popó blanca/negra o bebé decaído.
+Seguir ofreciendo sin forzar. Al inicio muchos bebés exploran, escupen o juegan. La exposición repetida ayuda.
 
 ---
 
-## ¿Qué silla de comer conviene?
+## ¿Qué hacer si mi bebé se estriñe al empezar a comer?
 
-Una segura, estable, fácil de limpiar y que permita buena postura: espalda apoyada, pies con soporte si es posible y bebé sentado a 90 grados.
-
----
-
-## ¿Se puede dar yogurt antes del año?
-
-Depende de indicación pediátrica y tipo de yogurt. Algunas mamás prefieren esperar o usar natural sin azúcar. Consultar si hay APLV o riesgo.
+Ofrecer agua según edad, frutas como ciruela o papaya si ya las tolera, masajes y revisar con pediatra si hay dolor, sangre o heces muy duras.
 
 ---
 
-## ¿Se puede dar queso a bebés?
+## ¿Cuánto tiempo puedo guardar una papilla con pollo?
 
-Puede ofrecerse en cantidades pequeñas si el bebé ya está en AC y no hay APLV, preferiblemente bajo en sodio. Revisar con pediatra.
+Mejor refrigerar poco tiempo y no dejar más de 24 horas. Si tuvo contacto con saliva, no guardarla por mucho tiempo. Congelar si no se usará pronto.
+
+---
+
+## ¿Las compotas comerciales son buenas?
+
+Pueden servir ocasionalmente, pero conviene revisar ingredientes, azúcar añadida y empaques. Preferir opciones simples o preparaciones caseras cuando se pueda.
+
+---
+
+## ¿La silicona de platos y cucharas puede coger olor?
+
+Algunas mamás notan olor o sabor a jabón. Ayuda usar jabones suaves, enjuagar bien o considerar acero inoxidable/vidrio según edad y seguridad.
+
+---
+
+## ¿Qué hacer si el bebé no quiere proteína?
+
+Ofrecer en distintas preparaciones sin forzar. Puede tomar varios intentos aceptar pollo, carne o pescado. Vigilar peso y consultar si la ingesta es muy baja.
 
 ---

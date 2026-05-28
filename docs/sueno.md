@@ -3,98 +3,74 @@
 !!! info "Nota importante"
     Esta información tiene fines informativos y no reemplaza la valoración médica. Ante síntomas de alarma o dudas sobre el estado del bebé, se debe consultar con el pediatra.
 
-## ¿Es normal que mi bebé solo duerma en brazos?
+## ¿Qué hago si mi bebé no se duerme y ya estoy agotada?
 
-Sí, especialmente recién nacido o en etapas de apego. Se puede intentar cuna poco a poco, pero priorizar descanso y seguridad.
-
----
-
-## ¿Qué hago si mi bebé no se duerme y estoy agotada?
-
-Revisar hambre, pañal, gases, temperatura, sueño acumulado y ambiente. Bajar luces, poco estímulo, ruido blanco si ayuda y turnarse con otra persona si se puede.
+Revisar hambre, pañal, gases, temperatura, sueño acumulado y estimulación. Mantener ambiente oscuro y tranquilo. Si nada funciona, pedir apoyo y priorizar descanso seguro.
 
 ---
 
-## ¿Qué es una regresión de sueño?
+## ¿Es normal que un recién nacido haga ruidos dormido?
 
-Una etapa donde el bebé cambia su patrón: más despertares, siestas cortas o dificultad para dormir. Puede coincidir con hitos, dientes, ansiedad o desarrollo.
-
----
-
-## ¿Cuánto dura una regresión de sueño?
-
-No hay duración exacta. Puede ser días o semanas. Mantener rutina, acompañar y revisar si hay molestias como dientes, fiebre o hambre.
+Sí, muchos hacen sonidos, se mueven, pujan o parecen inquietos por sueño activo. Si respira bien y no se ve mal, no siempre hay que despertarlo.
 
 ---
 
-## ¿Qué son las ventanas de sueño?
+## ¿Cuánto puede dormir seguido un bebé de 2 meses?
 
-Son tiempos aproximados que un bebé puede estar despierto antes de necesitar dormir. Ayudan a evitar sobrecansancio, pero no son reglas exactas.
-
----
-
-## ¿Qué hago si mi bebé hace catnaps de 20 o 30 minutos?
-
-Es común. Se puede intentar extender con contacto, ambiente oscuro o ruido blanco, pero a veces es una etapa. Mirar el total del día y el ánimo del bebé.
+Depende del peso, salud y recomendación del pediatra. Si recuperó peso, moja pañales y crece bien, algunos pueden dormir tramos más largos.
 
 ---
 
-## ¿El dream feed ayuda?
+## ¿La regresión de los 4 meses afecta las siestas?
 
-A algunas familias les ayuda a alargar el primer tramo de sueño, a otras no. Consiste en ofrecer una toma antes de que los papás se duerman, sin despertar completamente al bebé.
-
----
-
-## ¿Colecho sí o no?
-
-Cada familia decide. Si se hace, debe ser seguro: colchón firme, sin almohadas/cobijas sueltas cerca, bebé boca arriba y sin adultos bajo efectos de alcohol, sedantes o extremo cansancio.
+Sí, puede afectar noches y siestas. Puede haber despertares, siestas más cortas o dificultad para dormirse.
 
 ---
 
-## ¿Cuándo pasar del next to me al corral o cuna?
+## ¿Qué hago si mi bebé solo duerme en brazos?
 
-Cuando el bebé crece, se mueve mucho o el espacio queda pequeño. Revisar límites de peso/altura del producto y seguridad.
-
----
-
-## ¿Qué hago si mi bebé se voltea boca abajo dormido?
-
-Si ya se voltea solo y tiene buen control, mantener cuna segura sin objetos sueltos. Siempre acostarlo inicialmente boca arriba.
+Es común en bebés pequeños. Se puede intentar transición gradual a cuna, pero también priorizar descanso y seguridad sin culparse.
 
 ---
 
-## ¿Puedo poner almohadas o cojines para que no se voltee?
+## ¿Qué hacer si mi bebé se voltea boca abajo dormido?
 
-No es recomendable por seguridad. La cuna debe estar libre de almohadas, muñecos, cobijas sueltas o posicionadores.
-
----
-
-## ¿Qué son asociaciones de sueño?
-
-Son cosas que el bebé usa para dormirse: teta, chupo, brazos, mecedora, ruido blanco. No son malas, pero algunas pueden ser difíciles de retirar después.
+Si ya sabe girarse solo, mantener cuna segura, sin almohadas ni objetos sueltos. Consultar pediatra si hay dudas por edad o desarrollo.
 
 ---
 
-## ¿El chupo ayuda a dormir?
+## ¿El chupo puede ayudar a dormir?
 
-Puede ayudar a calmar y conciliar sueño. Conviene usarlo con criterio y retirarlo más adelante según edad, dientes y recomendación profesional.
-
----
-
-## ¿Qué es entrenamiento de sueño?
-
-Son estrategias para enseñar a dormir con menos ayuda. Hay métodos suaves y otros con llanto. No es obligatorio; cada familia decide según sus valores y cansancio.
+A muchas familias les ayuda, pero también puede convertirse en asociación. Usarlo en momentos puntuales y revisar edad, seguridad e higiene.
 
 ---
 
-## ¿Ruido blanco sí o no?
+## ¿Qué asociaciones de sueño son difíciles de quitar?
 
-Puede ayudar a algunos bebés a dormir, siempre en volumen bajo, lejos del oído y no toda la noche a volumen alto. Si no ayuda, no es obligatorio.
+Teta, brazos, chupo, movimiento y cama pueden volverse asociaciones. No son malas por sí mismas, pero conviene saber que luego pueden requerir transición.
 
 ---
 
-## ¿El bebé debe dormir siempre en silencio?
+## ¿Qué hago si mi bebé se despierta muchas veces en la noche?
 
-No. Muchos bebés se acostumbran a sonidos normales de casa. Lo importante es evitar ruidos muy fuertes y mantener ambiente seguro.
+Revisar hambre, temperatura, pañal, dientes, enfermedad, regresión o necesidad de contacto. Si está sano, suele ser etapa; buscar apoyo si la mamá está agotada.
+
+---
+
+## ¿Colecho está bien?
+
+Muchas familias lo usan para sobrevivir al cansancio. Debe hacerse siguiendo prácticas de sueño seguro y evitando riesgos como almohadas, cobijas sueltas o adultos con sueño pesado/medicación.
+
+---
+
+## ¿Sirven las asesorías o entrenamientos de sueño?
+
+A algunas familias les funcionan mucho y a otras no les encajan. Depende del método, tolerancia al llanto, edad del bebé y estilo de crianza.
+
+---
+
+## ¿Cómo vestir al bebé para dormir con aire acondicionado?
+
+Depende de la temperatura real. Observar nuca, sudor o frío. Usar pijamas frescas o sleeping sack según clima y evitar sobreabrigar.
 
 ---

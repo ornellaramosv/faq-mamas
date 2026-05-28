@@ -3,134 +3,74 @@
 !!! info "Nota importante"
     Esta información tiene fines informativos y no reemplaza la valoración médica. Ante síntomas de alarma o dudas sobre el estado del bebé, se debe consultar con el pediatra.
 
-## ¿Cuándo consultar por fiebre?
+## ¿Qué hacer si mi bebé tiene fiebre?
 
-Depende de edad y estado. En bebés pequeños, fiebre siempre se toma en serio. Consultar si hay decaimiento, dificultad respiratoria, fiebre persistente o bebé menor de 3 meses.
-
----
-
-## ¿Qué hacer si hay moquitos o estornudos?
-
-Observar respiración, ofrecer tomas, hacer lavado nasal si hay congestión y consultar si hay fiebre, hundimiento de costillas, decaimiento o dificultad para comer.
+Controlar temperatura, mantener hidratación, observar estado general y consultar según edad, fiebre persistente, decaimiento o signos de alarma. No automedicar.
 
 ---
 
-## ¿Qué señales de dificultad respiratoria debo vigilar?
+## ¿Qué hacer si mi bebé tiene mocos o gripa?
 
-Hundimiento de costillas, respiración muy rápida, quejido, aleteo nasal, labios morados, decaimiento o dificultad para comer. En esos casos, urgencias.
-
----
-
-## ¿Qué hacer si el bebé tiene gases?
-
-Masajes suaves, bicicleta, posición vertical, sacar gases y revisar agarre/tetina. Si hay llanto inconsolable, vómito fuerte o abdomen muy distendido, consultar.
+Lavados nasales con solución salina, mantener hidratación, observar respiración y consultar si hay fiebre persistente, dificultad respiratoria o decaimiento.
 
 ---
 
-## ¿Qué es la disquecia del lactante?
+## ¿Cuándo sirven las terapias respiratorias?
 
-Cuando el bebé puja, se pone rojo o llora para hacer popó blanda porque aún coordina mal. Suele mejorar solo; consultar si hay popó dura, sangre o dolor fuerte.
-
----
-
-## ¿Cómo diferenciar reflujo normal de vómito preocupante?
-
-Botar leche en pequeñas cantidades puede ser normal. Preocupa si es en proyectil, muy frecuente, verde, con sangre, con baja de peso o decaimiento.
+Pueden ayudar cuando hay mucha flema, bronquiolitis o dificultad para expulsar secreciones, pero deben hacerse por indicación médica o profesional.
 
 ---
 
-## ¿Qué hacer si el bebé tiene acné neonatal?
+## ¿Qué signos de alarma respiratoria debo vigilar?
 
-Suele quitarse solo. Limpiar suavemente con agua tibia y no aplicar productos sin indicación. Consultar si se infecta, supura o se extiende mucho.
-
----
-
-## ¿Qué hacer si el ombligo se ve en carne viva?
-
-Mantener seco, doblar pañal para que no roce y consultar al pediatra. No aplicar alcohol u otros productos si no fueron indicados, especialmente si está irritado.
+Hundimiento de costillas, respiración rápida, labios morados, quejido, decaimiento, dificultad para comer o fiebre persistente. Consultar de inmediato.
 
 ---
 
-## ¿Qué hago si la uña del bebé se ve encarnada o roja?
+## ¿Qué hacer si después de fiebre aparece brote?
 
-Lavar con agua tibia, observar si hay pus, dolor o empeora. Evitar cortar demasiado los bordes. Si hay infección, consultar.
+Puede ocurrir con virus como roseola, pero hay que observar estado general. Consultar si el brote preocupa, hay fiebre alta o el bebé está decaído.
 
 ---
 
-## ¿Qué hacer si aparece brote después de fiebre?
+## ¿Es normal el acné de recién nacido?
 
-Puede ser viral, como roseola u otros. Observar estado general. Consultar si hay fiebre persistente, decaimiento, manchas preocupantes o bebé pequeño.
+Puede ser normal y suele mejorar solo. Evitar aplicar muchos productos; limpiar suave y consultar si empeora o parece infección.
+
+---
+
+## ¿Qué hacer si la vacuna del recién nacido se inflama?
+
+Puede salir bolita o reacción local. Mantener limpio y observar. Consultar si hay calor, pus abundante, enrojecimiento fuerte o fiebre.
+
+---
+
+## ¿Qué hacer si el bebé tiene reacción alérgica?
+
+Observar brote, hinchazón, respiración y estado general. Si hay dificultad respiratoria, hinchazón de cara o decaimiento, urgencias.
 
 ---
 
 ## ¿Qué es boca-mano-pie?
 
-Es un virus frecuente en niños, con fiebre, llagas o lesiones en boca, manos y pies. Es contagioso; requiere manejo de síntomas y control médico si hay alarma.
+Es una enfermedad viral común en niños que puede causar fiebre, lesiones en boca, manos y pies. Requiere manejo de síntomas y consulta si hay alarma.
 
 ---
 
-## ¿Qué hacer si el bebé suda mucho o le huelen los pies?
+## ¿Cuándo consultar por otitis o dolor de oído?
 
-Secar bien pliegues y dedos, evitar exceso de medias, revisar materiales y mantener fresco. Si hay irritación, mal olor fuerte o hongos, consultar.
-
----
-
-## ¿Puedo usar colonia en el bebé?
-
-No es necesaria. Si se usa, mejor en ropa, sin alcohol y en poca cantidad. Evitar en piel sensible o recién nacidos.
+Si hay fiebre, llanto persistente, se toca el oído, secreción o decaimiento. Debe evaluarlo pediatra.
 
 ---
 
-## ¿Qué hacer si hay pañalitis?
+## ¿Qué hacer si el bebé tiene flema y hace arcadas al dormir?
 
-Lavar con agua, evitar pañitos, secar muy bien, dejar ratos sin pañal y usar crema barrera. Si hay hongos, piel pelada o no mejora, consultar.
-
----
-
-## ¿Qué cremas se mencionaron para pañalitis?
-
-Almipro, Desitin morada, Pasta Granúgena, Aquaphor, Acid Mantle, pasta al agua y otras; las medicadas como nistatina o corticoides solo con indicación.
+Elevar ligeramente según indicación segura, lavados nasales, observar respiración y consultar si hay dificultad para respirar o se ahoga.
 
 ---
 
-## ¿Qué hacer si el cuello o pliegues se irritan por saliva?
+## ¿El humidificador ayuda con gripa o congestión?
 
-Limpiar, secar muy bien, usar baberos, mantener pliegues secos y aplicar barrera suave si el pediatra lo permite. Vigilar hongos.
-
----
-
-## ¿Qué hacer si el bebé tiembla dormido o tomando teta?
-
-Puede ser sueño, relajación o reflejos, pero conviene grabarlo para mostrar al pediatra si se repite, dura mucho o se acompaña de otros síntomas.
-
----
-
-## ¿Qué hacer con dentición y encías inflamadas?
-
-Ofrecer mordedores fríos, masajes suaves y consultar antes de usar geles o medicamentos. Si hay fiebre alta o mucho malestar, revisar con pediatra.
-
----
-
-## ¿Los bebés pueden tener ansiedad por separación?
-
-Sí, puede aparecer cuando empiezan a reconocer más a mamá/papá. Quieren brazos, lloran al alejarse y buscan seguridad. Es una etapa.
-
----
-
-## ¿Qué hacer si el bebé tiene popó ácida y colita quemada?
-
-Lavar con agua, secar muy bien, crema barrera generosa y consultar si se repite, hay diarrea, sangre/moco o sospecha de alergia.
-
----
-
-## ¿Qué hacer si el bebé baja de peso al nacer?
-
-Es normal que baje algo los primeros días. Se vigila que recupere peso, tenga pañales adecuados y buen estado general. Pediatra define si necesita refuerzo.
-
----
-
-## ¿Cuándo preocuparse por aplanamiento de cabeza?
-
-Hacer tummy time, alternar posiciones despierto y consultar si se nota plano marcado, preferencia de lado o rigidez de cuello.
+Puede ayudar a algunas familias, pero debe limpiarse muy bien para evitar hongos. No reemplaza lavados ni valoración médica si hay alarma.
 
 ---

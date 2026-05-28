@@ -1,6 +1,6 @@
-site_name: The Mom's Club FAQ
+site_name: The Club Moms FAQ
 site_description: Preguntas frecuentes para mamás
-site_url: https://ornellaramosv.github.io/faq-mamas/
+site_url: http://127.0.0.1:8000/
 
 theme:
   name: material
@@ -32,28 +32,26 @@ nav:
   - Consulta rápida:
       - Cuándo consultar: salud-alertas.md
   - Temas frecuentes:
-      - APLV: aplv.md
+      - APLV y alergias: aplv-y-alergias.md
       - Alimentación complementaria: alimentacion-complementaria.md
-      - Compras: compras.md
-      - Desarrollo: desarrollo.md
+      - Dentición e higiene oral: denticion-e-higiene-oral.md
+      - Desarrollo y estimulación: desarrollo-y-estimulacion.md
       - Embarazo: embarazo.md
-      - Eventos: eventos.md
-      - Fechas importantes: fechas-importantes.md
-      - Fórmula: formula.md
-      - Grupo y comunidad: grupo-y-comunidad.md
-      - Hogar y ayuda: hogar-y-ayuda.md
+      - Fórmula y lactancia mixta: formula-y-lactancia-mixta.md
+      - Gases, cólicos y reflujo: gases-colicos-y-reflujo.md
       - Lactancia: lactancia.md
-      - Mascotas: mascotas.md
-      - Maternidad: maternidad.md
-      - Pareja y trabajo: pareja-y-trabajo.md
-      - Parto y posparto: parto-y-posparto.md
-      - Productos: productos.md
-      - Salud de mamá: salud-de-mama.md
+      - Maternidad y emociones: maternidad-y-emociones.md
+      - Parto y cesárea: parto-y-cesarea.md
+      - Pañales y pañalitis: panales-y-panalitis.md
+      - Piel, baño y cabello: piel-bano-y-cabello.md
+      - Privacidad y tecnología: privacidad-y-tecnologia.md
+      - Productos recomendados: productos-recomendados.md
       - Salud del bebé: salud-del-bebe.md
-      - Seguridad y privacidad: seguridad-y-privacidad.md
+      - Servicios y contactos: servicios-y-contactos.md
       - Sueño: sueno.md
+      - Trabajo y maternidad: trabajo-y-maternidad.md
+      - Trámites y viajes: tramites-y-viajes.md
       - Vacunas: vacunas.md
-      - Viajes y trámites: viajes-y-tramites.md
 
 markdown_extensions:
   - admonition
