@@ -20,9 +20,3 @@ Desde configuración y controles de datos se puede desactivar la opción de mejo
 Revisar Biblioteca/Library o almacenamiento, seleccionar el archivo y eliminarlo. Es mejor borrar directamente archivos si se subieron fotos o documentos.
 
 ---
-
-## ¿Por qué hacer un wiki del grupo?
-
-Porque muchas respuestas valiosas se pierden en WhatsApp. Un wiki permite encontrar rápido preguntas frecuentes, recomendados y contactos.
-
----
